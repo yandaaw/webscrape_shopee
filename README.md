@@ -1,7 +1,7 @@
 # Web Scraping - Shopee
 
 <p align="center">
-  <img width="400" height="300" src="![iamge](https://vectorlogo4u.com/wp-content/uploads/2019/06/shopee-logo-vector.png)">
+  <img width="400" height="300" src="![iamge](https://upload.wikimedia.org/wikipedia/commons/b/b5/Shopee-logo.jpg)">
 </p>
 Shopee Pte. Ltd. (Shopee) is a Singaporean multinational technology company which focuses mainly on e-commerce. Headquartered under Sea Ltd, Shopee was first launched in Singapore in 2015, and later expanded its reach abroad. As of 2021, it is widely considered as the largest e-commerce platform in Southeast Asia with 343 million monthly visitors, and the company also serves consumers and sellers throughout in several countries across the Americas and Europe who wish to purchase and sell their goods online.
 
